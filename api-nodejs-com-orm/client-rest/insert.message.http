@@ -3,5 +3,5 @@ content-type: application/json
 
 {
     "email": "fulano@gmail.com",
-    "message": "Hi, are you from?"
+    "message": "Hi, where are you from?"
 }
