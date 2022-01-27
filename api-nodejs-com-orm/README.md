@@ -1,4 +1,4 @@
-# API usando Node.js e TypeORM
+# API usando Node.js, Express e TypeORM
 ![Tela capturada](./screen_capture.jpg)
 &nbsp;
 &nbsp;
