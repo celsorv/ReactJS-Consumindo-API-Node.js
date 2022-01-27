@@ -5,13 +5,13 @@
 &nbsp;
 >### crie a aplicação react js
 ```js
-> npx create-react-app note
+> npx create-react-app sugestao
 ```
 &nbsp;
 
 >### Crie as pastas e arquivos
 ```js
-> cd node               // entra na pasta do projeto
+> cd sugestao               // entra na pasta do projeto
 
 > md src\components
 > md src\css
