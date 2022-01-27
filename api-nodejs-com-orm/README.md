@@ -1,5 +1,5 @@
 # API usando Node.js e TypeORM
-![Tela capturada](/screen_capture.jpg)
+![Tela capturada](./screen_capture.jpg)
 &nbsp;
 &nbsp;
 ## ||| Instalações e configurações iniciais
