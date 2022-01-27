@@ -1,6 +1,6 @@
 # React JS: Consumindo uma API Node.js
 &nbsp;
-![Tela Capturada](/screen_capture.jpg)
+![Tela Capturada](./screen_capture.jpg)
 ### Passos iniciais para construção da aplicação.
 &nbsp;
 >### crie a aplicação react js
